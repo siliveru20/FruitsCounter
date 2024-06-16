@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffd569;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+}
+.card {
+  background-color: #ffffff;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 4px;
+}
+.heading {
+  color: #000000;
+  font-family: 'roboto';
+}
